@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Eric HOGEDEZ</h1>
 <h3 align="center">Développeur Flutter</h3>
 
-- 📫 How to reach me **erichogedez2@gmail.com**
+- 📫 How to reach me **erichogedez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
